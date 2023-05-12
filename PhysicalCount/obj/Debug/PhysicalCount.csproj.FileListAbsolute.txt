@@ -1,0 +1,28 @@
+C:\Users\leonel.valle\source\repos\PhysicalCount\PhysicalCount\obj\Debug\PhysicalCount.Form1.resources
+C:\Users\leonel.valle\source\repos\PhysicalCount\PhysicalCount\obj\Debug\PhysicalCount.Properties.Resources.resources
+C:\Users\leonel.valle\source\repos\PhysicalCount\PhysicalCount\obj\Debug\PhysicalCount.csproj.GenerateResource.cache
+C:\Users\leonel.valle\source\repos\PhysicalCount\PhysicalCount\obj\Debug\PhysicalCount.csproj.CoreCompileInputs.cache
+C:\Users\leonel.valle\source\repos\PhysicalCount\PhysicalCount\bin\Debug\Manual Tags Data Capture.exe.config
+C:\Users\leonel.valle\source\repos\PhysicalCount\PhysicalCount\bin\Debug\Manual Tags Data Capture.exe.manifest
+C:\Users\leonel.valle\source\repos\PhysicalCount\PhysicalCount\bin\Debug\Manual Tags Data Capture.application
+C:\Users\leonel.valle\source\repos\PhysicalCount\PhysicalCount\bin\Debug\Manual Tags Data Capture.exe
+C:\Users\leonel.valle\source\repos\PhysicalCount\PhysicalCount\bin\Debug\Manual Tags Data Capture.pdb
+C:\Users\leonel.valle\source\repos\PhysicalCount\PhysicalCount\obj\Debug\Manual Tags Data Capture.exe.manifest
+C:\Users\leonel.valle\source\repos\PhysicalCount\PhysicalCount\obj\Debug\Manual Tags Data Capture.application
+C:\Users\leonel.valle\source\repos\PhysicalCount\PhysicalCount\obj\Debug\Manual Tags Data Capture.exe
+C:\Users\leonel.valle\source\repos\PhysicalCount\PhysicalCount\obj\Debug\Manual Tags Data Capture.pdb
+C:\Users\leonel.valle\source\repos\PhysicalCount\PhysicalCount\obj\Debug\PhysicalCount.csproj.AssemblyReference.cache
+C:\Users\leonel.valle\source\repos\repos\repos\PhysicalCount\PhysicalCount\bin\Debug\Manual Tags Data Capture.exe.config
+C:\Users\leonel.valle\source\repos\repos\repos\PhysicalCount\PhysicalCount\bin\Debug\Manual Tags Data Capture.exe.manifest
+C:\Users\leonel.valle\source\repos\repos\repos\PhysicalCount\PhysicalCount\bin\Debug\Manual Tags Data Capture.application
+C:\Users\leonel.valle\source\repos\repos\repos\PhysicalCount\PhysicalCount\bin\Debug\Manual Tags Data Capture.exe
+C:\Users\leonel.valle\source\repos\repos\repos\PhysicalCount\PhysicalCount\bin\Debug\Manual Tags Data Capture.pdb
+C:\Users\leonel.valle\source\repos\repos\repos\PhysicalCount\PhysicalCount\obj\Debug\PhysicalCount.csproj.AssemblyReference.cache
+C:\Users\leonel.valle\source\repos\repos\repos\PhysicalCount\PhysicalCount\obj\Debug\PhysicalCount.Form1.resources
+C:\Users\leonel.valle\source\repos\repos\repos\PhysicalCount\PhysicalCount\obj\Debug\PhysicalCount.Properties.Resources.resources
+C:\Users\leonel.valle\source\repos\repos\repos\PhysicalCount\PhysicalCount\obj\Debug\PhysicalCount.csproj.GenerateResource.cache
+C:\Users\leonel.valle\source\repos\repos\repos\PhysicalCount\PhysicalCount\obj\Debug\PhysicalCount.csproj.CoreCompileInputs.cache
+C:\Users\leonel.valle\source\repos\repos\repos\PhysicalCount\PhysicalCount\obj\Debug\Manual Tags Data Capture.exe.manifest
+C:\Users\leonel.valle\source\repos\repos\repos\PhysicalCount\PhysicalCount\obj\Debug\Manual Tags Data Capture.application
+C:\Users\leonel.valle\source\repos\repos\repos\PhysicalCount\PhysicalCount\obj\Debug\Manual Tags Data Capture.exe
+C:\Users\leonel.valle\source\repos\repos\repos\PhysicalCount\PhysicalCount\obj\Debug\Manual Tags Data Capture.pdb
